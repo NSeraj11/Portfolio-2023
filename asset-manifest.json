@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio-2023/static/css/main.158fb325.css",
-    "main.js": "/Portfolio-2023/static/js/main.5d314cd3.js",
-    "static/media/Continental.png": "/Portfolio-2023/static/media/Continental.6e89ecfe0fa404dc8cba.png",
-    "static/media/MealZ.png": "/Portfolio-2023/static/media/MealZ.24fae56126909c55c0ea.png",
-    "static/media/Petstop.png": "/Portfolio-2023/static/media/Petstop.919051616c6a6bc6585c.png",
-    "static/media/BudgetApp.png": "/Portfolio-2023/static/media/BudgetApp.f4563ce11a3954552caf.png",
-    "static/media/Cartoonify.png": "/Portfolio-2023/static/media/Cartoonify.3e2f5379d1ef48b94621.png",
-    "static/media/bball.png": "/Portfolio-2023/static/media/bball.35f3a24f987a3239eeeb.png",
-    "static/media/javascript-logo.png": "/Portfolio-2023/static/media/javascript-logo.31c81075366a39d39b47.png",
-    "static/media/html5-logo2.png": "/Portfolio-2023/static/media/html5-logo2.158639f814a432d3fb72.png",
-    "static/media/react-logo.png": "/Portfolio-2023/static/media/react-logo.5bf723c2eb20b6d99884.png",
-    "static/media/css-logo.png": "/Portfolio-2023/static/media/css-logo.40d0dc72a428593fc1ae.png",
-    "static/media/husky.png": "/Portfolio-2023/static/media/husky.f8a5f391a5b72575d8e6.png",
-    "index.html": "/Portfolio-2023/index.html",
-    "main.158fb325.css.map": "/Portfolio-2023/static/css/main.158fb325.css.map",
-    "main.5d314cd3.js.map": "/Portfolio-2023/static/js/main.5d314cd3.js.map"
+    "main.css": "/Portfolio-2023/home/static/css/main.158fb325.css",
+    "main.js": "/Portfolio-2023/home/static/js/main.49f17983.js",
+    "static/media/Continental.png": "/Portfolio-2023/home/static/media/Continental.6e89ecfe0fa404dc8cba.png",
+    "static/media/MealZ.png": "/Portfolio-2023/home/static/media/MealZ.24fae56126909c55c0ea.png",
+    "static/media/Petstop.png": "/Portfolio-2023/home/static/media/Petstop.919051616c6a6bc6585c.png",
+    "static/media/BudgetApp.png": "/Portfolio-2023/home/static/media/BudgetApp.f4563ce11a3954552caf.png",
+    "static/media/Cartoonify.png": "/Portfolio-2023/home/static/media/Cartoonify.3e2f5379d1ef48b94621.png",
+    "static/media/bball.png": "/Portfolio-2023/home/static/media/bball.35f3a24f987a3239eeeb.png",
+    "static/media/javascript-logo.png": "/Portfolio-2023/home/static/media/javascript-logo.31c81075366a39d39b47.png",
+    "static/media/html5-logo2.png": "/Portfolio-2023/home/static/media/html5-logo2.158639f814a432d3fb72.png",
+    "static/media/react-logo.png": "/Portfolio-2023/home/static/media/react-logo.5bf723c2eb20b6d99884.png",
+    "static/media/css-logo.png": "/Portfolio-2023/home/static/media/css-logo.40d0dc72a428593fc1ae.png",
+    "static/media/husky.png": "/Portfolio-2023/home/static/media/husky.f8a5f391a5b72575d8e6.png",
+    "index.html": "/Portfolio-2023/home/index.html",
+    "main.158fb325.css.map": "/Portfolio-2023/home/static/css/main.158fb325.css.map",
+    "main.49f17983.js.map": "/Portfolio-2023/home/static/js/main.49f17983.js.map"
   },
   "entrypoints": [
     "static/css/main.158fb325.css",
-    "static/js/main.5d314cd3.js"
+    "static/js/main.49f17983.js"
   ]
 }
