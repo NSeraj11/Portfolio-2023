@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/Portfolio-2023/static/css/main.158fb325.css",
+    "main.js": "/github.io/Portfolio-2023/static/js/main.71b6daa6.js",
+    "static/media/Continental.png": "/github.io/Portfolio-2023/static/media/Continental.6e89ecfe0fa404dc8cba.png",
+    "static/media/MealZ.png": "/github.io/Portfolio-2023/static/media/MealZ.24fae56126909c55c0ea.png",
+    "static/media/Petstop.png": "/github.io/Portfolio-2023/static/media/Petstop.919051616c6a6bc6585c.png",
+    "static/media/BudgetApp.png": "/github.io/Portfolio-2023/static/media/BudgetApp.f4563ce11a3954552caf.png",
+    "static/media/Cartoonify.png": "/github.io/Portfolio-2023/static/media/Cartoonify.3e2f5379d1ef48b94621.png",
+    "static/media/bball.png": "/github.io/Portfolio-2023/static/media/bball.35f3a24f987a3239eeeb.png",
+    "static/media/javascript-logo.png": "/github.io/Portfolio-2023/static/media/javascript-logo.31c81075366a39d39b47.png",
+    "static/media/html5-logo2.png": "/github.io/Portfolio-2023/static/media/html5-logo2.158639f814a432d3fb72.png",
+    "static/media/react-logo.png": "/github.io/Portfolio-2023/static/media/react-logo.5bf723c2eb20b6d99884.png",
+    "static/media/css-logo.png": "/github.io/Portfolio-2023/static/media/css-logo.40d0dc72a428593fc1ae.png",
+    "static/media/husky.png": "/github.io/Portfolio-2023/static/media/husky.f8a5f391a5b72575d8e6.png",
+    "index.html": "/github.io/Portfolio-2023/index.html",
+    "main.158fb325.css.map": "/github.io/Portfolio-2023/static/css/main.158fb325.css.map",
+    "main.71b6daa6.js.map": "/github.io/Portfolio-2023/static/js/main.71b6daa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.158fb325.css",
+    "static/js/main.71b6daa6.js"
+  ]
+}
