@@ -55,7 +55,7 @@ const ContactForm = styled.div`
   }
 
   input.name-input{
-    height:50px;
+    height:10px;
     position:relative;
     top:85px;
     width:300px;
@@ -67,7 +67,7 @@ const ContactForm = styled.div`
   }
 
   input.email-input{
-    height:50px;
+    height:10px;
     position:relative;
     top:85px;
     left:-2px;
