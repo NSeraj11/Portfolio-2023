@@ -38,6 +38,7 @@ const ContactForm = styled.div`
     
   h1{
     font-size:3rem;
+    color:white;
     position:relative;
     top:55px;
     left:-10px;
